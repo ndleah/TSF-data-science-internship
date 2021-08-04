@@ -17,9 +17,8 @@ In this exercise, we will cover 2 part:
 2. Visualize the data for sale analysis. 
    
    **Dashboard demo:**
-
-![dashboard](Dashboard.gif)
-
+<p align="center">
+<img src="https://github.com/ndleah/TSF-data-science-internship/blob/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail/Dashboard.gif" width=50% height=50%>
 
 ---
 Copyright © 2021 Leah Nguyen
