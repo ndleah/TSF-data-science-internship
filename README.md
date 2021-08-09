@@ -50,7 +50,7 @@
 
 **Solution:**
 
-[![task-3](https://img.shields.io/badge/Eploratory_Data_Analysis-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/TSF-data-science-internship/tree/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail)
+[![task-3](https://img.shields.io/badge/Eploratory_Data_Analysis_:_Retail-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/TSF-data-science-internship/tree/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail)
 
 
 ---
@@ -66,65 +66,9 @@
 
 **Solution:**
 
-*Updating*
-
----
-
-## 🌟 Task 5 - Exploratory Data Analysis - Sports (Level - Advanced)
-
-> Problem statement:
-
-1. Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
-2. As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
-3. Suggest teams or players a company should endorse for its products.
-4. Data can be found at https://bit.ly/34SRn3b
-**Solution:**
-
-*Updating*
-
----
-
-## 🌟 Task 6 - Prediction using Decision Tree Algorithm (Level - Intermediate)
-
-> Problem statement:
-
-1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
-2. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-3. Data can be found at https://bit.ly/3kXTdox
-
-**Solution:**
-
-*Updating*
+[![task-4](https://img.shields.io/badge/Eploratory_Data_Analysis_:_Terrorism-Level_Intermediate-971901?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/TSF-data-science-internship/tree/main/Task%204%20-%20Exploratory%20Data%20Analysis%20-%20Terrorism%20-%20Intermediate)
 
 
----
-
-## 🌟 Task 7 - Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-
-> Problem statement:
-
-1. **Objective:** Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
-2. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
-3. Download historical stock prices from finance.yahoo.com
-4. Download textual (news) data from https://bit.ly/36fFPI6
-
-**Solution:**
-
-*Updating*
-
----
-
-## 🌟 Task 8 - Timeline Analysis : Covid-19 (Level - Advanced)
-
-> Problem statement:
-
-1. Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
-2. Use animation, timeline and annotations to create attractive and interactive dashboards and story
-3. Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts
-4. Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
-5. **Dataset:** Daily updated .csv file on https://bit.ly/30d2gdi
-
-<br>
 
 ## ✨ Contribution
 
