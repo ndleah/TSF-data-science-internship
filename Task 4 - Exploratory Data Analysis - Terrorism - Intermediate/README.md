@@ -13,7 +13,7 @@ Copyright © 2021 Leah Nguyen
 
 ## **Task 3 - Exploratory Data Analysis - Terrorism**
 In this exercise, we will cover 2 part:
-1. **Exploratory Data Analysis** on dataset ‘globalterrorism’ in order to find out the weak areas where you can work to make more profit.
+1. **Exploratory Data Analysis** on dataset ‘globalterrorism’.
 2. Visualize the data. 
    
 ---
